@@ -1,0 +1,7 @@
+se busca la carpeta Saavedra2013
+
+101
+comando cat para contar, comando wc - L para contar las lineas
+
+11
+head -n1 se usa para seleccionar la primera fila, se uso tr -d   para eliminar los espacios y \n para eliminar los espacios finales, el comando wc-c para contar los caracteres.
