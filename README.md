@@ -2,9 +2,9 @@
 ***Deber 1.1***  
 ***cd ../../../  
 cd Documents/Bioinformatica/CSB/unix/data/Saavedra2013  
-#se busca la carpeta Saavedra2013  
+#se busca la carpeta Saavedra2013***  
 #  
-cat ../Saavedra2013/n4.txt | wc -l***  
+***cat ../Saavedra2013/n4.txt | wc -l***  
 #comando cat para imprimir, comando wc - L para contar las lineas  
    
 head -n1 ../Saavedra2013/n4.txt | tr -d " " | tr -d "\n" | wc -c      
